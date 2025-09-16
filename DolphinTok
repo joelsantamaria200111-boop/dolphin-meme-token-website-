@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$DOLPH Token</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>$DOLPH</h1>
+            <ul>
+                <li><a href="#tokenomics">Tokenomics</a></li>
+                <li><a href="#roadmap">Roadmap</a></li>
+                <li><a href="#presale">Presale</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Welcome to $DOLPH</h2>
+        <p>The sapphire-blue dolphin surfing the blockchain 🌊🐬</p>
+        <a href="#presale" class="btn">Join the Presale</a>
+    </section>
+
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <p>Fixed supply, quarterly burns, community rewards, and incentives for active holders.</p>
+    </section>
+
+    <section id="roadmap">
+        <h2>Roadmap</h2>
+        <ul>
+            <li>Q1: Testnet & Prelaunch</li>
+            <li>Q2: Official Launch & Marketing</li>
+            <li>Q3: Community building & Education</li>
+            <li>Q4: Social impact initiatives & Partnerships</li>
+        </ul>
+    </section>
+
+    <section id="presale">
+        <h2>Presale</h2>
+        <p>Join early and secure your $DOLPH tokens!</p>
+        <a href="#" class="btn">Buy Tokens</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Join our Telegram community: <a href="https://t.me/DOLPH_Official" target="_blank">https://t.me/DOLPH_Official</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 $DOLPH Token. All Rights Reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
